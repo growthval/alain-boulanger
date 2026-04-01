@@ -70,11 +70,11 @@ const Footer: React.FC = () => {
                     
                     <div className="flex justify-center space-x-8 mb-6">
                         <a 
-                            href="tel:0185536082" 
+                            href="tel:0620339290"
                             className="hover:text-[#FF6600] transition duration-300"
                             onClick={trackPhoneClick}
                         >
-                            📞 01 85 53 60 82
+                            📞 06 20 33 92 90
                         </a>
                     </div>
 
